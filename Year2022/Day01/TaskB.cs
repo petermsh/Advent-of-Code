@@ -31,5 +31,5 @@ public class TaskB
     }
     
     private static string[] ReadFile()
-        => File.ReadAllLines("D:/NaukaC#/AoC2022/AoC2022/Year2022/Day01/input.txt");
+        => File.ReadAllLines(@"E:\Advent-of-Code\Year2022\Day01\input.txt");
 }
