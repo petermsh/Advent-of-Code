@@ -1,6 +1,6 @@
 ﻿namespace Year2022.Day01;
 
-public class TaskB
+public static class TaskB
 {
     public static void Run()
     {
